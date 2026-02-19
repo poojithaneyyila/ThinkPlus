@@ -50,5 +50,14 @@ The system should:
 
 ## Folder Structure
 
-(learning-system/ ├─ frontend/        # React frontend │   ├─ src/ │   │   ├─ App.jsx │   │   ├─ main.jsx │   │   └─ style.css │   ├─ package.json │   └─ ... ├─ backend/         # Flask backend │   ├─ app.py │   ├─ requirements.txt │   └─ ... └─ README.md)
-
+learning-system/
+|-- frontend/
+|   |-- src/
+|   |   |-- App.jsx
+|   |   |-- main.jsx
+|   |   `-- style.css
+|   |-- package.json
+|-- backend/
+|   |-- app.py
+|   `-- requirements.txt
+`-- README.md
