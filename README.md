@@ -47,17 +47,3 @@ The system should:
 | ≥ 80       | Increase             |
 
 - Topic recommendation **always matches the last attempted topic**.
-
-## Folder Structure
-
-learning-system/
-|-- frontend/
-|   |-- src/
-|   |   |-- App.jsx
-|   |   |-- main.jsx
-|   |   `-- style.css
-|   |-- package.json
-|-- backend/
-|   |-- app.py
-|   `-- requirements.txt
-`-- README.md
